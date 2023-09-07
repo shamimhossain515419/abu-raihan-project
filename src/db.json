@@ -1,0 +1,87 @@
+{
+  "product": [
+    {
+      "id": "e912ad01-2551-48dc-a709-4054cbfbcbbc",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 43,
+      "stock": 19,
+      "ratings": 4,
+      "ratingsCount": 64,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg",
+      "shipping": 43,
+      "quantity": 0
+    },
+    {
+      "id": "5b5c43d9-950d-4b9a-b7d9-ca489224a7b2",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 26,
+      "stock": 20,
+      "ratings": 5,
+      "ratingsCount": 83,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e2d870a680644e4d98e9ac7d0008ecc7_9366/Steel_Metal_Bottle_600_ML_Yellow_EX7307_01_standard.jpg",
+      "shipping": 6,
+      "quantity": 0
+    },
+    {
+      "id": "96239c09-8b1c-4c81-99f9-f43e7613eab3",
+      "category": "Bottle",
+      "name": "Squad Glass Bottle 720 ML",
+      "seller": "Addidas",
+      "price": 39,
+      "stock": 20,
+      "ratings": 3,
+      "ratingsCount": 1,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/77ad16764abf4e828560ad44001cd640_9366/Squad_Glass_Bottle_720_ML_Black_FZ7115_01_standard.jpg",
+      "shipping": 5,
+      "quantity": 0
+    },
+    {
+      "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
+      "category": "Bottle",
+      "name": "Steel Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 23,
+      "stock": 11,
+      "ratings": 5,
+      "ratingsCount": 35,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/48057b65216644f683a9aa1c0172ae6e_9366/Steel_Bottle_600_ML_Black_CL6093_01_standard.jpg",
+      "shipping": 5,
+      "quantity": 0
+    },
+    {
+      "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 2L",
+      "seller": "Addidas",
+      "price": 37,
+      "stock": 14,
+      "ratings": 4,
+      "ratingsCount": 68,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f8d89293c9cb4bf08d52adb100f95a3a_9366/Steel_Metal_Bottle_2L_Black_EX7302_01_standard.jpg",
+      "shipping": 27,
+      "quantity": 0
+    }
+  ],
+  "image": [
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/free-photo/lake-mountains_1204-502.jpg?w=1380&t=st=1693885749~exp=1693886349~hmac=64ce34e6de5c3b398cccee03404b110ec5b9a4b97e0fb8a7062cc532345ba5f2"
+    },
+    {
+      "id": 2,
+      "img": "https://img.freepik.com/free-photo/chair-holiday-travel-palm-beautiful_1203-4721.jpg?w=1380&t=st=1693885753~exp=1693886353~hmac=e117295e847ddacbdb7182644098afaf1555911a7637da5ffedee4e2ee534355"
+    },
+    {
+      "id": 3,
+      "img": "https://img.freepik.com/free-photo/old-rusty-fishing-boat-slope-along-shore-lake_181624-44902.jpg?w=1380&t=st=1693885757~exp=1693886357~hmac=218948cdc168cf8d95f97f0476afc53eab4b16e63759e0454c0440e2a0f564a1"
+    },
+    {
+      "id": 4,
+      "img": "https://img.freepik.com/free-photo/green-leaf-with-leaves-leaves-has-water-droplets-it_1340-42454.jpg?t=st=1693885784~exp=1693889384~hmac=9ba74146ad76e8d72d4e5cc7f659eebca42665f571a1d2327793272114968ef5&w=1380"
+    }
+  ]
+}
